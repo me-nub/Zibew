@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.exe
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.deps.json
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.runtimeconfig.json
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.dll
+E:\ZIBEW\Assignment\stockMarket\bin\Debug\netcoreapp3.0\stockMarket.pdb
+E:\ZIBEW\Assignment\stockMarket\obj\Debug\netcoreapp3.0\stockMarket.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\stockMarket\obj\Debug\netcoreapp3.0\stockMarket.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\stockMarket\obj\Debug\netcoreapp3.0\stockMarket.AssemblyInfo.cs
+E:\ZIBEW\Assignment\stockMarket\obj\Debug\netcoreapp3.0\stockMarket.dll
+E:\ZIBEW\Assignment\stockMarket\obj\Debug\netcoreapp3.0\stockMarket.pdb

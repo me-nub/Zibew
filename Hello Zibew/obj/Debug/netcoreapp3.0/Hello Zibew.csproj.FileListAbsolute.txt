@@ -1,0 +1,11 @@
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.exe
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.deps.json
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.runtimeconfig.json
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.runtimeconfig.dev.json
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.dll
+E:\ZIBEW\Hello Zibew\bin\Debug\netcoreapp3.0\Hello Zibew.pdb
+E:\ZIBEW\Hello Zibew\obj\Debug\netcoreapp3.0\Hello Zibew.csprojAssemblyReference.cache
+E:\ZIBEW\Hello Zibew\obj\Debug\netcoreapp3.0\Hello Zibew.AssemblyInfoInputs.cache
+E:\ZIBEW\Hello Zibew\obj\Debug\netcoreapp3.0\Hello Zibew.AssemblyInfo.cs
+E:\ZIBEW\Hello Zibew\obj\Debug\netcoreapp3.0\Hello Zibew.dll
+E:\ZIBEW\Hello Zibew\obj\Debug\netcoreapp3.0\Hello Zibew.pdb

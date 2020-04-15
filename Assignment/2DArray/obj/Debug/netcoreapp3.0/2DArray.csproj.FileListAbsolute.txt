@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.exe
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.deps.json
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.runtimeconfig.json
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.dll
+E:\ZIBEW\Assignment\2DArray\bin\Debug\netcoreapp3.0\2DArray.pdb
+E:\ZIBEW\Assignment\2DArray\obj\Debug\netcoreapp3.0\2DArray.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\2DArray\obj\Debug\netcoreapp3.0\2DArray.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\2DArray\obj\Debug\netcoreapp3.0\2DArray.AssemblyInfo.cs
+E:\ZIBEW\Assignment\2DArray\obj\Debug\netcoreapp3.0\2DArray.dll
+E:\ZIBEW\Assignment\2DArray\obj\Debug\netcoreapp3.0\2DArray.pdb

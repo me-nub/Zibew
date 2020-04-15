@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\harmonicNumber\obj\Debug\netcoreapp3.0\harmonicNumber.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\harmonicNumber\obj\Debug\netcoreapp3.0\harmonicNumber.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\harmonicNumber\obj\Debug\netcoreapp3.0\harmonicNumber.AssemblyInfo.cs
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.exe
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.deps.json
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.runtimeconfig.json
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.dll
+E:\ZIBEW\Assignment\harmonicNumber\bin\Debug\netcoreapp3.0\harmonicNumber.pdb
+E:\ZIBEW\Assignment\harmonicNumber\obj\Debug\netcoreapp3.0\harmonicNumber.dll
+E:\ZIBEW\Assignment\harmonicNumber\obj\Debug\netcoreapp3.0\harmonicNumber.pdb

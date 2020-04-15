@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\flipTheCoin\obj\Debug\netcoreapp3.0\flipTheCoin.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\flipTheCoin\obj\Debug\netcoreapp3.0\flipTheCoin.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\flipTheCoin\obj\Debug\netcoreapp3.0\flipTheCoin.AssemblyInfo.cs
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.exe
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.deps.json
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.runtimeconfig.json
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.dll
+E:\ZIBEW\Assignment\flipTheCoin\bin\Debug\netcoreapp3.0\flipTheCoin.pdb
+E:\ZIBEW\Assignment\flipTheCoin\obj\Debug\netcoreapp3.0\flipTheCoin.dll
+E:\ZIBEW\Assignment\flipTheCoin\obj\Debug\netcoreapp3.0\flipTheCoin.pdb

@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.exe
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.deps.json
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.runtimeconfig.json
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.dll
+E:\ZIBEW\Assignment\replaceString\bin\Debug\netcoreapp3.0\replaceString.pdb
+E:\ZIBEW\Assignment\replaceString\obj\Debug\netcoreapp3.0\replaceString.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\replaceString\obj\Debug\netcoreapp3.0\replaceString.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\replaceString\obj\Debug\netcoreapp3.0\replaceString.AssemblyInfo.cs
+E:\ZIBEW\Assignment\replaceString\obj\Debug\netcoreapp3.0\replaceString.dll
+E:\ZIBEW\Assignment\replaceString\obj\Debug\netcoreapp3.0\replaceString.pdb

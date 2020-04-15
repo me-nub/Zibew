@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\powerOf2\obj\Debug\netcoreapp3.0\powerOf2.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\powerOf2\obj\Debug\netcoreapp3.0\powerOf2.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\powerOf2\obj\Debug\netcoreapp3.0\powerOf2.AssemblyInfo.cs
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.exe
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.deps.json
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.runtimeconfig.json
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.dll
+E:\ZIBEW\Assignment\powerOf2\bin\Debug\netcoreapp3.0\powerOf2.pdb
+E:\ZIBEW\Assignment\powerOf2\obj\Debug\netcoreapp3.0\powerOf2.dll
+E:\ZIBEW\Assignment\powerOf2\obj\Debug\netcoreapp3.0\powerOf2.pdb

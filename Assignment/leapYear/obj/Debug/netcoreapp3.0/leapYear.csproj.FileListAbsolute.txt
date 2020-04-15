@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.exe
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.deps.json
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.runtimeconfig.json
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.dll
+E:\ZIBEW\Assignment\leapYear\bin\Debug\netcoreapp3.0\leapYear.pdb
+E:\ZIBEW\Assignment\leapYear\obj\Debug\netcoreapp3.0\leapYear.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\leapYear\obj\Debug\netcoreapp3.0\leapYear.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\leapYear\obj\Debug\netcoreapp3.0\leapYear.AssemblyInfo.cs
+E:\ZIBEW\Assignment\leapYear\obj\Debug\netcoreapp3.0\leapYear.dll
+E:\ZIBEW\Assignment\leapYear\obj\Debug\netcoreapp3.0\leapYear.pdb

@@ -1,0 +1,11 @@
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.exe
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.deps.json
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.runtimeconfig.json
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.runtimeconfig.dev.json
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.dll
+E:\ZIBEW\Assignment\bubbleSort\bin\Debug\netcoreapp3.0\bubbleSort.pdb
+E:\ZIBEW\Assignment\bubbleSort\obj\Debug\netcoreapp3.0\bubbleSort.csprojAssemblyReference.cache
+E:\ZIBEW\Assignment\bubbleSort\obj\Debug\netcoreapp3.0\bubbleSort.AssemblyInfoInputs.cache
+E:\ZIBEW\Assignment\bubbleSort\obj\Debug\netcoreapp3.0\bubbleSort.AssemblyInfo.cs
+E:\ZIBEW\Assignment\bubbleSort\obj\Debug\netcoreapp3.0\bubbleSort.dll
+E:\ZIBEW\Assignment\bubbleSort\obj\Debug\netcoreapp3.0\bubbleSort.pdb

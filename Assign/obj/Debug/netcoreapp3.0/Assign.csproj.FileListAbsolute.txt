@@ -1,0 +1,11 @@
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.exe
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.deps.json
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.runtimeconfig.json
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.runtimeconfig.dev.json
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.dll
+E:\ZIBEW\Assign\bin\Debug\netcoreapp3.0\Assign.pdb
+E:\ZIBEW\Assign\obj\Debug\netcoreapp3.0\Assign.csprojAssemblyReference.cache
+E:\ZIBEW\Assign\obj\Debug\netcoreapp3.0\Assign.AssemblyInfoInputs.cache
+E:\ZIBEW\Assign\obj\Debug\netcoreapp3.0\Assign.AssemblyInfo.cs
+E:\ZIBEW\Assign\obj\Debug\netcoreapp3.0\Assign.dll
+E:\ZIBEW\Assign\obj\Debug\netcoreapp3.0\Assign.pdb
